@@ -68,9 +68,11 @@ In the loop, we monitor the accelerometer's position using the `gestureIs()` fun
 
 ## Shopping List
 
-[3V3 Trinket](https://www.rapidonline.com/adafruit-1500-trinket-3v3-attiny85-arduino-compatible-75-0580)
-[NeoPixel Jewel](https://www.rapidonline.com/adafruit-2859-neopixel-jewel-led-module-7-x-5050-rgbw-natural-white-4500k--73-5271)
-[Accelerometer](https://www.rapidonline.com/adafruit-1120-3-axis-accelerometer-and-magnetometer-compass-board-75-0582)
+* [3V3 Trinket](https://www.rapidonline.com/adafruit-1500-trinket-3v3-attiny85-arduino-compatible-75-0580)
+
+* [NeoPixel Jewel](https://www.rapidonline.com/adafruit-2859-neopixel-jewel-led-module-7-x-5050-rgbw-natural-white-4500k--73-5271)
+
+* [Accelerometer](https://www.rapidonline.com/adafruit-1120-3-axis-accelerometer-and-magnetometer-compass-board-75-0582)
 
 ## Wiring Diagram
 
