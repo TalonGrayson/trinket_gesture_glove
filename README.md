@@ -65,3 +65,9 @@ If there is a problem with the accelerometer, the red LED on the Trinket will li
 ## loop()
 
 In the loop, we monitor the accelerometer's position using the `gestureIs()` function. If we find that the gesture is one we're waiting for, we first wait for a moment to ensure it's an intentional gesture. If it is, we run one of the action functions (`palmUpAction()` or `palmFwdAction()`).
+
+## Wiring Diagram
+
+![alt text](https://github.com/TalonGrayson/trinket_gesture_glove/blob/master/Wiring%20Diagram_bb.png "Wiring Diagram created in Fritzing")
+
+[Created using Fritzing](https://fritzing.org/home/)
