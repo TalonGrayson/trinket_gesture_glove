@@ -8,12 +8,12 @@ The code has been written to run on an Adafruit Trinket
 
 * Adafruit 3.3v Trinket (Microcontroller)
 * Adafruit NewPixel RGBW Jewel (Lights)
-* Adafruit LSM303DLHC (Accelerometer)
+* Adafruit LSM303DLHC (Accelerometer - other accelerometers may be compatible with the library used, not sure)
 
 ## Libraries Used
 
-* Adafruit_LSM303_U.h
-* Adafruit_NeoPixel.h
+* Adafruit_LSM303_U.h (Accelerometer)
+* Adafruit_NeoPixel.h (Lights)
 
 ## How Accelerometers Work
 
@@ -65,6 +65,12 @@ If there is a problem with the accelerometer, the red LED on the Trinket will li
 ## loop()
 
 In the loop, we monitor the accelerometer's position using the `gestureIs()` function. If we find that the gesture is one we're waiting for, we first wait for a moment to ensure it's an intentional gesture. If it is, we run one of the action functions (`palmUpAction()` or `palmFwdAction()`).
+
+## Shopping List
+
+[3V3 Trinket](https://www.rapidonline.com/adafruit-1500-trinket-3v3-attiny85-arduino-compatible-75-0580)
+[NeoPixel Jewel](https://www.rapidonline.com/adafruit-2859-neopixel-jewel-led-module-7-x-5050-rgbw-natural-white-4500k--73-5271)
+[Accelerometer](https://www.rapidonline.com/adafruit-1120-3-axis-accelerometer-and-magnetometer-compass-board-75-0582)
 
 ## Wiring Diagram
 
