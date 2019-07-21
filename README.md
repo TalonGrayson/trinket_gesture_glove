@@ -76,6 +76,6 @@ In the loop, we monitor the accelerometer's position using the `gestureIs()` fun
 
 ## Wiring Diagram
 
-![alt text](https://github.com/TalonGrayson/trinket_gesture_glove/blob/master/Wiring%20Diagram_bb.png "Wiring Diagram created in Fritzing")
+![alt text](https://github.com/TalonGrayson/trinket_gesture_glove/blob/2bc6f127406a14a3f715ff000fdfd83d05ac5591/Wiring%20Diagram_bb.png "Wiring Diagram created in Fritzing")
 
 [Created using Fritzing](https://fritzing.org/home/)
