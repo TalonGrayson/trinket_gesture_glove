@@ -7,7 +7,7 @@ The code has been written to run on an Adafruit Trinket
 ## Minimum Hardware
 
 * Adafruit 3.3v Trinket (Microcontroller)
-* Adafruit NewPixel RGBW Jewel (Lights)
+* Adafruit NeoPixel RGBW Jewel (Lights)
 * Adafruit LSM303DLHC (Accelerometer - other accelerometers may be compatible with the library used, not sure)
 
 ## Libraries Used
